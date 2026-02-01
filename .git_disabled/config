@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[branch "main"]
+	vscode-merge-base = origin/main
+	gk-last-accessed = 2026-01-31T17:04:42.697Z
+	gk-last-modified = 2026-01-20T17:37:08.805Z
+	remote = origin
+	merge = refs/heads/main
+[branch "recover-my-work"]
+	vscode-merge-base = origin/main
+	gk-last-accessed = 2026-01-13T07:40:18.209Z
+[remote "origin"]
+	url = https://github.com/Gokul7904231/Gymholic_1.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
